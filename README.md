@@ -1,4 +1,4 @@
-> # ⚠ Moved to https://github.com/MrWook/zxcvbn
+> # ⚠ Moved to https://github.com/zxcvbn-ts/zxcvbn
 
 
 ```
